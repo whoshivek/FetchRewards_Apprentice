@@ -18,7 +18,7 @@ Despite these potential improvements, the app functions smoothly and produces th
 
 ## Testing
 
-I have thoroughly tested the API, and you can find the test cases in the `unittest/fetchitem.test` file.
+I have thoroughly tested the API, and you can find the test cases in the `java/com/example/fetchrewards/FetchClientTest.kt` file.
 
 ## Sorting Logic
 
